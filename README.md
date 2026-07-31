@@ -228,7 +228,7 @@ Inner Loop (Current): i_ref → [Current Controller] → Duty Cycle → [PWM] �
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/closed-loop-dc-motor-control.git
+   git clone https://github.com/Malharsk016/closed-loop-dc-motor-control.git
    cd closed-loop-dc-motor-control
    ```
 
